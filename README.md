@@ -26,7 +26,7 @@ Projenin derlenmiş en güncel `.deb` paketini indirip sisteminize tek komutla k
 
 ```bash
 sudo apt install ./ubuntu-lens_1.0.0_amd64.deb
-```bash
+```
 Kurulum bittikten sonra Ubuntu uygulama menüsünde "Ubuntu Lens" adıyla aratabilir veya herhangi bir resme sağ tıklayıp varsayılan uygulama olarak atayabilirsiniz.
 📦 Geliştiriciler İçin: Yeniden Paketleme (Debian Build)
 
@@ -37,13 +37,13 @@ Eğer kod üzerinde değişiklik yaptıysanız ve paketi yeniden üretmek istiyo
 ```bash
 
 pip install pyinstaller PyQt5 opencv-python-headless pytesseract
-```bash
+```
     PyInstaller ile Temiz Derleme Yapın:
 
 ```bash
 
 pyinstaller --noconfirm --windowed --name="ubuntu_lens" main.py
-```bash
+```
     Otomatik Paketleme Sihirbazını Çalıştırın:
     Dizindeki build.sh betiğine çalışma izni verip tetikleyin:
 
@@ -51,7 +51,7 @@ pyinstaller --noconfirm --windowed --name="ubuntu_lens" main.py
 
 chmod +x build.sh
 ./build.sh
-```bash
+```
 İşlem bittiğinde yeni ubuntu-lens_1.0.0_amd64.deb paketiniz kök dizinde hazır olacaktır.
 📝 Lisans
 
