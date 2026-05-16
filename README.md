@@ -26,7 +26,7 @@ Projenin derlenmiş en güncel `.deb` paketini indirip sisteminize tek komutla k
 
 ```bash
 sudo apt install ./ubuntu-lens_1.0.0_amd64.deb
-
+```bash
 Kurulum bittikten sonra Ubuntu uygulama menüsünde "Ubuntu Lens" adıyla aratabilir veya herhangi bir resme sağ tıklayıp varsayılan uygulama olarak atayabilirsiniz.
 📦 Geliştiriciler İçin: Yeniden Paketleme (Debian Build)
 
