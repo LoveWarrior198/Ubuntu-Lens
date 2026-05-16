@@ -32,7 +32,7 @@ Kurulum bittikten sonra Ubuntu uygulama menüsünde "Ubuntu Lens" adıyla aratab
 
 Eğer kod üzerinde değişiklik yaptıysanız ve paketi yeniden üretmek istiyorsanız aşağıdaki adımları takip edin:
 
-    Bağımlılıkları Kurun (Sanal Ortamda yapılması önerilir):
+Bağımlılıkları Kurun (Sanal Ortamda yapılması önerilir):
 
 ```bash
 pip install pyinstaller PyQt5 opencv-python-headless pytesseract
@@ -44,8 +44,8 @@ pip install pyinstaller PyQt5 opencv-python-headless pytesseract
 pyinstaller --noconfirm --windowed --name="ubuntu_lens" main.py
 ```
 
-    Otomatik Paketleme Sihirbazını Çalıştırın:
-    Dizindeki build.sh betiğine çalışma izni verip tetikleyin:
+Otomatik Paketleme Sihirbazını Çalıştırın:
+Dizindeki build.sh betiğine çalışma izni verip tetikleyin:
 
 ```bash
 chmod +x build.sh
