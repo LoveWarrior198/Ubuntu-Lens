@@ -34,24 +34,24 @@ Eğer kod üzerinde değişiklik yaptıysanız ve paketi yeniden üretmek istiyo
 
     Bağımlılıkları Kurun (Sanal Ortamda yapılması önerilir):
 
-Bash
+```bash
 
 pip install pyinstaller PyQt5 opencv-python-headless pytesseract
-
+```bash
     PyInstaller ile Temiz Derleme Yapın:
 
-Bash
+```bash
 
 pyinstaller --noconfirm --windowed --name="ubuntu_lens" main.py
-
+```bash
     Otomatik Paketleme Sihirbazını Çalıştırın:
     Dizindeki build.sh betiğine çalışma izni verip tetikleyin:
 
-Bash
+```bash
 
 chmod +x build.sh
 ./build.sh
-
+```bash
 İşlem bittiğinde yeni ubuntu-lens_1.0.0_amd64.deb paketiniz kök dizinde hazır olacaktır.
 📝 Lisans
 
