@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg7384" width="16" height="16" style="enable-background:new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icons</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Gnome Symbolic Icons</title>
+ <g id="layer3" transform="translate(-172,-668)">
+  <path id="path28099-5" d="m179 670.99v2h2.9219c-0.0552 0 0.082 0.16127 0.082 0.084v0.92186h-1.9414c-1.7159 0-3.03 1.1255-3.0547 2.4844-0.0123 0.67944 0.30583 1.363 0.86132 1.8223 0.5555 0.45927 1.3155 0.69922 2.1934 0.69922h3.9414v-5.9277c0-1.1712-0.88519-2.084-2.082-2.084zm1.0625 5.0059h1.9414v1.0059h-1.9414c-0.5194 0-0.79183-0.13595-0.91797-0.24024-0.12613-0.10428-0.13802-0.17217-0.13671-0.24414 3e-3 -0.14392 0.0849-0.52148 1.0547-0.52148z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;enable-background:accumulate;fill:#2e3436;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path8003" d="m175 670.97v11.004h1v-11.004z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;enable-background:new;fill:#2e3436;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path8005" d="m174.01 680v1h10.992v-1z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;enable-background:new;fill:#2e3436;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect8025" d="m185.02 682.97-0.0308-4.9488 2.5144 2.4851z" style="color:#000000;fill:#241f31;paint-order:normal"/>
+  <path id="path8028" d="m177.97 670.98-4.9488 0.0308 2.4851-2.5144z" style="color:#000000;fill:#241f31;paint-order:normal"/>
+ </g>
+</svg>
